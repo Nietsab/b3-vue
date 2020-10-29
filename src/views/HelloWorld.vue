@@ -3,7 +3,7 @@
 
     <InputBlock monAttribut="YOLO">
       <h1 slot="header">Head</h1>
-      <p>kdsjlksdjlkdfjlksdjdsfjklsd</p>
+      <p></p>
       <aside slot="footer">Foot</aside>
       <aside slot="poney">Hiiii</aside>
     </InputBlock>

@@ -27,12 +27,6 @@
         <slot name="poney"></slot>
 
 
-
-
-
-        Shorthand/raccourci pour v-on: => @
-        Shorthand/raccourci pour v-bind: => :
-
         <label for="passwordForm__input">
             mon label trop bi1
             {{monAttribut}}
