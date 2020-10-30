@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "sass-loader": "^10.0.3",
+    "saas": "^1.0.0",
+    "sass-loader": "^10.0.4",
+    "scss": "^0.2.4",
     "vue": "^2.6.12",
     "vue-router": "^3.4.8"
   },
